@@ -1,0 +1,10 @@
+# Ignore Maven target folder
+target/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+*.log
+
+# Ignore dependency downloads
+.m2/
